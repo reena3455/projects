@@ -4,7 +4,9 @@ To predict and measure customer lifetime value for Car insurance company by anal
 
 Steps:
 
-Predicted the customer lifetime value using regression analysis, and perform cross-validation and feature selection on the model in order to improve its performance. 
+Predicted the customer lifetime value using regression analysis.
+
+Performed cross-validation and feature selection on the model in order to improve its performance. 
 
 Experimented with feature selection, including recursive feature elimination, lasso regularization, and linear SVR. 
 
